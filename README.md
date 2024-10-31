@@ -1,4 +1,4 @@
-<h1 align="center">API RocketMovies</h1>
+<h1 align="center">API</h1>
 
 <p align="center">
 Desafio do Stage 08 - Introdução ao Node.js<br/>
